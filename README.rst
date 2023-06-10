@@ -36,7 +36,6 @@ To get more help:
   https://groups.google.com/group/django-users.
 
 To contribute to Django:
-
 * Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
   information about getting involved.
 
